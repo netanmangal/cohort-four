@@ -34,7 +34,9 @@ The motivation to carry out this project is the advance the goal of RIG Open Pro
 
 ## Goal of the project
 
- - 
+ - Extablish the key metrics as indicators for Ethereum Supply Chain Health pertaining to Bundlers purposed for AA.
+ - Foster collaboration and knowledge sharing amoung bundler projects, reseachers and the Ethereum Community.
+ - I would like to advance this research and wish to work towards studying the potential of Bundler Extractable Value (BEV).
 
 
 ### Mentors
