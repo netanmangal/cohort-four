@@ -2,6 +2,8 @@
 
 ROP-5 - Ethereum Supply Network Health Framework - Bundlers (EIP-4337)
 
+(In progress) - (I warmly embrace the chance to make necessary modifications based on the inputs and guidance provided by the esteemed mentors under the Ethereum Protocol Fellowship Program).
+
 ## Motivation
 
 The release of long-awaited AA (EIP-4337) aims to acheive the goal of allowing userrs to use smart contract wallets. This proposal focuses on providing the higher-laye solution rather than altering the underlying Ethereum consensus unlike previous attempts (EIP-86 / EIP 1014 and more). In this proposal, a new pseudo-transaction object called UserOperation is introduced. Users send UserOperation objects to a separate mempool dedicated to user operations. Bundlers bundle multiple UserOperations into a single transaction by calling a special contract called EntryPoint. This transaction is then included in a block.
@@ -11,7 +13,7 @@ The motivation to carry out this project is the advance the goal of RIG Open Pro
 ## Project description
 
  - Capture and store bundler-related information, such as bundler activities, transaction inclusion/exclusion, fee structures, and order of transactions in the mempool
- - Collaborate with existing bundler projects to understand and research regarding bundler dynamics and it's impact on Ehtereum ecosystem.
+ - Collaborate with existing bundler projects to understand and research regarding bundler dynamics and it's impact on Ethereum ecosystem.
 
 ## Specification
 
@@ -19,7 +21,9 @@ The motivation to carry out this project is the advance the goal of RIG Open Pro
 
 ## Roadmap
 
-What is your proposed timeline? Outline parts of the project and insight on how much time it will take to execute them.
+ - [ ] Understanding the specifications pertaining to bundlers (2 weeks).
+ - [ ] Design data collection mechanisms from the existing bundler infra (2 weeks).
+ - [ ] Implement the data collection component to capture bundler-related information from the Ethereum network (4 weeks).
 
 ## Possible challenges
 
