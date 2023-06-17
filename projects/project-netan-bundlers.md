@@ -1,6 +1,6 @@
 # Project Template
 
-Tagline 
+ROP-5 - Ethereum Supply Network Health Framework - Bundlers (ERC-4337)
 
 ## Motivation
 
@@ -26,16 +26,16 @@ What are the limitations and issues you may need to overcome?
 
 What does success look like? Describe the end goal of the project, scope, state and impact for the project to be considered finished and successful.
 
-## Collaborators
-
-### Fellows 
-
-Are there any fellows working with you on this project? 
 
 ### Mentors
 
-Which mentors are helping you with the project? 
+#### Internal
+ - Barnabé Monnot (barnabe.mannot@ethereum.org)
+
+ #### External
+  - Thomas Thiery (thomas.thiery@ethereum.org)
+  - Davide Crapis (davide.crapis@ethereum.org)
 
 ## Resources
 
-Provide links to repositories, PRs and other resources which constitute the project.
+This section will contain the relevant work links for the project.
